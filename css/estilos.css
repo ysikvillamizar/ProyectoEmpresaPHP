@@ -1,0 +1,57 @@
+html body{
+    heigth:100%;
+    background: url('../images/spring-background-pink-flowers-heart-petals-greeting-card-woman-day-flat-lay-top-view-style-109972453.jpg') no-repeat center center fixed ;
+    background-size: cover;
+}
+image{
+    max-width: 100%;
+}
+
+/*cover*/
+#cover{
+    background: #222 url('../images/background-4774062_960_720.jpg') center center no-repeat;
+    background-size: cover;
+    color: black;
+    heigth: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-texto{
+   width: 100% 
+}
+
+#cover-texto .form-inline{
+    padding: 5ren 0;
+}   
+
+.contenido-seccion{
+    padding:5ren o;
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 25%;
+    padding: 0;
+}
+
+  
+
+.user.img{
+    margin-top:-50px;
+    margin-bottom:35px;
+}
+.user.img img{
+    width: 100px;
+    height: 100px;
+}
+
+
+#footer{
+    background: #222;
+    color: whitesmoke;
+    padding: 1.8755rem;
+
+}
+
